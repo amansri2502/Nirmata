@@ -11,3 +11,7 @@ html {
   /* 10px */
   font-size: 62.5%;
 }
+
+.pointer{
+  cursor: pointer;
+}
