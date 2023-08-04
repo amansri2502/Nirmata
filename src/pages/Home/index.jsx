@@ -109,7 +109,7 @@ const Home = () => {
     <Container className='d-flex justify-content-center align-items-center mt-4'>
       <Card className='mt-3 col-lg-8 col-12' style={{ overflowX: 'auto' }}>
         <Card.Header className='d-flex justify-content-between'>
-          <div>{"Player's Board🏏"}</div>
+          <div className='d-none d-md-flex'>{"Player's Board🏏"}</div>
           <div className='d-flex gap-1'>
             <Form.Control
               size='sm'
