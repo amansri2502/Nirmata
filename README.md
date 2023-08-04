@@ -2,7 +2,7 @@
 
 # Nirmata Assignment 🚀
 
-[Live link](https://64cd3454da73a538216af3e4--warm-torte-2af1fd.netlify.app/)
+[Live link](https://64cd36b0739d94327ed1d19e--warm-torte-2af1fd.netlify.app/)
 
 
 ## Welcome! 👋
