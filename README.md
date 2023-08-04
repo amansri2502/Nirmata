@@ -1,8 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Nirmata Assignment 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live link](https://64cd3454da73a538216af3e4--warm-torte-2af1fd.netlify.app/)
+
+
+## Welcome! 👋
+
+I have completed all the requirements of the Problem statement along with optional ones.
+
+REACT+VITE is used to create this project.
+I have used react bootstrap for basic UI & React Router Dom package for routing
+
+🕣 I have Taken 6 Hours to complete this assignment.
+
+## Step by step Process of Running this application
+
+1. Clone the repo and install all packages by running npm i (This project is created using vite which requires Node.js version of 14.18+).
+2. To run in dev mode you can run "npm run dev" OR to create a build we have "npm run build" 
+3. In Vite build file is named as "dist"
+4. Preview can be seen using "npm run preview".
+5. Application is fully responsive and fits to the device size.
+6. I have hosted the application on netlify and added the link above.
