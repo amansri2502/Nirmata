@@ -184,7 +184,7 @@ const Home = () => {
               {data.slice((page - 1) * LIMIT, LIMIT * page).map((item) => (
                 <tr key={item.id}>
                   <td
-                    className='pointer'
+                    className='pointer text-decoration-underline text-primary'
                     onClick={() => navigate(`/${item.id}`)}
                   >
                     {item.name}
