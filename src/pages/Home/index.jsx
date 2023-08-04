@@ -19,7 +19,7 @@ import {
 import TablePagination from '../../component/TablePagination';
 
 const Home = () => {
-  const LIMIT = 8;
+  const LIMIT = 10;
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
   const [data, setData] = useState([]);
